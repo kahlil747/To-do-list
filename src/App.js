@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import Todos from './components/Todos'
 import './App.css';
 

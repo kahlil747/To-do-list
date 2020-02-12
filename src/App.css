@@ -1,14 +1,23 @@
-.overall{
+body {
+  background-color: black;
+}
+
+.overall {
   background-color: orange;
   width: 600px;
-  height: 150px;
+  height: 400px;
   margin: auto;
   margin-top: 10%;
   text-align: center;
 }
 
-.stfu{
-margin-top: 3%;
-width: 400px;
-margin-left: 20%;
+.stfu {
+  margin-top: 3%;
+  width: 400px;
+  margin-left: 20%;
+}
+
+.list-group-item {
+  width: 400px;
+  margin-left: 20%;
 }
