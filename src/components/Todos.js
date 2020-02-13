@@ -57,7 +57,10 @@ const Todos = () => {
           </li>
         );
       })}
-      <li className="list-group-item d-flex justify-content-between align-items-center">{todos.length} items Left</li>
+      <li 
+      className="list-group-item d-flex justify-content-between align-items-center">
+        {todos.length} items Left
+        </li>
     </div>
   );
 };
